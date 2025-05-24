@@ -19,7 +19,6 @@
 
 ## 📝 TODO
 - Add GUI with keybind info and status
-- Support EXE generation for easier use
 - Improve detection accuracy and reduce false positives
 - Add settings for user customization
 - Optimize performance for lower-end PCs
